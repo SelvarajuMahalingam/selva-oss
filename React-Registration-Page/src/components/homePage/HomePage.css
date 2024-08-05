@@ -1,0 +1,32 @@
+
+.home-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: rgba(20, 66, 5, 0.5);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(97, 22, 70, 0.6);
+    border-radius: 10px;
+}
+
+.home-container h2 {
+    margin: 0 0 30px;
+    padding: 0;
+    color: #0f0569;
+    text-align: center;
+}
+
+
+.home-container p {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #06210f;
+    margin-bottom: 30px;
+    border: none;
+    outline: none;
+    background: transparent;
+}
